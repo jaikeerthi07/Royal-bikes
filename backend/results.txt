@@ -1,0 +1,2 @@
+SUCCESS with user: root, password: jaikeerthi07a
+Databases: ['aeronex', 'ai_interviewer', 'billing_db', 'dress', 'information_schema', 'inventory', 'jarvis_os', 'lakhotia', 'm3cars', 'medical', 'mysql', 'performance_schema', 'quantum_trade', 'reddot_db', 'reddot_whatsapp', 'sakila', 'shivmotors', 'sys', 'world', 'yuva_factory']
